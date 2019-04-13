@@ -16,8 +16,8 @@
 					},
 					"url": "https://raw.githubusercontent.com/slavaten/5G-NB-IoT/master/5G-NB-IoT.zip",
 					"archiveFileName": "5G-NB-IoT.zip",
-					"checksum": "SHA-256:027afc8385200d0288f318204f50fea2d15f0806849042f8fde75c4be1c47975",
-					"size": "1115991",
+					"checksum": "SHA-256:2d47aa8407b5c9770cb4130008dcea98c9217fca9fb2b656b227791c7bb72b85",
+					"size": "1118208",
 					"boards": [
 						{
 							"name": "5G-NB-IoT"
