@@ -83,7 +83,7 @@ extern "C"
 #define PIN_LED              PIN_LED_13
 #define PIN_LED2             PIN_LED_RXL
 #define PIN_LED3             PIN_LED_TXL
-#define LED_BUILTIN          PIN_LED_13
+#define LED_BUILTIN          PIN_LED_RXL	//PIN_LED_13
 
 /*
  * Analog pins
@@ -113,8 +113,8 @@ static const uint8_t ATN = PIN_ATN;
  * Serial interfaces
  */
 // Serial (EDBG)
-#define PIN_SERIAL_RX       (31ul)
-#define PIN_SERIAL_TX       (30ul)
+#define PIN_SERIAL_RX       (8ul)	//(31ul)	//
+#define PIN_SERIAL_TX       (9ul)	//(30ul)	//
 #define PAD_SERIAL_TX       (UART_TX_PAD_2)
 #define PAD_SERIAL_RX       (SERCOM_RX_PAD_3)
 
