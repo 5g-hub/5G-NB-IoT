@@ -14,7 +14,7 @@
 					"help": {
 						"online": "null"
 					},
-					"url": "https://raw.githubusercontent.com/slavaten/5G-NB-IoT/master/5G-NB-IoT.zip",
+					"url": "https://github.com/5g-hub/5G-NB-IoT/blob/master/5G-NB-IoT.zip",
 					"archiveFileName": "5G-NB-IoT.zip",
 					"checksum": "SHA-256:ed44b7166f6074433b344d385a00b1bda15d4cb72d1bcd1552750f56be99adc8",
 					"size": "1103661",
