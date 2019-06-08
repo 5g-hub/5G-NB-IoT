@@ -28,7 +28,7 @@
 5G-NB-IoT.vid.2.build.vid=0x2341
 5G-NB-IoT.vid.2.build.pid=0x824d
 5G-NB-IoT.vid.2.build.usb_product="5G-NB-IoT"
-5G-NB-IoT.vid.2.bootloader.file=5G-NB-IoT/samd21_sam_ba_genuino.bin
+5G-NB-IoT.vid.2.bootloader.file=5G-NB-IoT/5G_NB_IoT_sam_ba.hex
 
 5G-NB-IoT.vid.3=0x2341
 5G-NB-IoT.pid.3=0x024d
@@ -36,7 +36,7 @@
 5G-NB-IoT.vid.3.build.vid=0x2341
 5G-NB-IoT.vid.3.build.pid=0x824d
 5G-NB-IoT.vid.3.build.usb_product="5G-NB-IoT"
-5G-NB-IoT.vid.3.bootloader.file=5G-NB-IoT/samd21_sam_ba_genuino.bin
+5G-NB-IoT.vid.3.bootloader.file=5G-NB-IoT/5G_NB_IoT_sam_ba.hex
 
 5G-NB-IoT.upload.tool=bossac
 5G-NB-IoT.upload.protocol=sam-ba
@@ -58,5 +58,5 @@
 5G-NB-IoT.build.vid=0x2341
 5G-NB-IoT.build.pid=0x804d
 5G-NB-IoT.bootloader.tool=openocd
-5G-NB-IoT.bootloader.file=5G-NB-IoT/samd21_sam_ba.bin
+5G-NB-IoT.bootloader.file=5G-NB-IoT/5G_NB_IoT_sam_ba.hex
 
